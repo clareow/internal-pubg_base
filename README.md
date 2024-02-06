@@ -1,2 +1,2 @@
-# Internal-Pubg
-Internal-Pubg
+# internal
+internal-pubg
